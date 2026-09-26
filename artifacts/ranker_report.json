@@ -1,0 +1,49 @@
+{
+ "blocking_pair_recall": 0.9836683271882477,
+ "cands_per_s1_blocking": 47.80658,
+ "k3": {
+  "pair_recall": 0.7109421052023255,
+  "kept_of_blocked": 0.7227457523558856,
+  "cands_per_s1": 3.0
+ },
+ "k5": {
+  "pair_recall": 0.9165385637836776,
+  "kept_of_blocked": 0.9317556929006181,
+  "cands_per_s1": 5.0
+ },
+ "k8": {
+  "pair_recall": 0.9737803257088038,
+  "kept_of_blocked": 0.989947829765234,
+  "cands_per_s1": 8.0
+ },
+ "k10": {
+  "pair_recall": 0.9784671575029762,
+  "kept_of_blocked": 0.9947124762061429,
+  "cands_per_s1": 10.0
+ },
+ "k12": {
+  "pair_recall": 0.9804262647510952,
+  "kept_of_blocked": 0.9967041101684958,
+  "cands_per_s1": 12.0
+ },
+ "k15": {
+  "pair_recall": 0.9818710341081149,
+  "kept_of_blocked": 0.9981728667779005,
+  "cands_per_s1": 15.0
+ },
+ "k20": {
+  "pair_recall": 0.982963279742022,
+  "kept_of_blocked": 0.9992832467746104,
+  "cands_per_s1": 20.0
+ },
+ "k25": {
+  "pair_recall": 0.9833967105491279,
+  "kept_of_blocked": 0.9997238737574319,
+  "cands_per_s1": 25.0
+ },
+ "k30": {
+  "pair_recall": 0.9835816410268264,
+  "kept_of_blocked": 0.9999118746034357,
+  "cands_per_s1": 30.0
+ }
+}

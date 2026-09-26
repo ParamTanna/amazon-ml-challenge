@@ -1,0 +1,44 @@
+{
+ "valid_f05_threshold": 0.9776155304717331,
+ "threshold": 0.75,
+ "valid_f05_expected": 0.9776439320696666,
+ "expected_params": {
+  "m0": 0.06274,
+  "q0": 0.94522,
+  "scale": 1.0,
+  "empty_bias": 2.0
+ },
+ "decision": "expected",
+ "by_country": {
+  "US": [
+   0.98043014310006,
+   30083
+  ],
+  "India": [
+   0.9734355881209402,
+   19917
+  ]
+ },
+ "by_singleton": {
+  "singleton": [
+   0.9514805565465573,
+   2803
+  ],
+  "matched": [
+   0.9791977584059052,
+   47197
+  ]
+ },
+ "blocking_pair_recall": 0.9818710341081149,
+ "cands_per_s1": 15.0,
+ "k_use": 999,
+ "best_iter": 563,
+ "runtime_s": 2459.8358776569366,
+ "submission": {
+  "test_matches": 5952285,
+  "test_s1_with_match": 1640584,
+  "test_s1": 1732544,
+  "one_to_one_dropped": 9922,
+  "test_cands_per_s1": 14.99991861678549
+ }
+}

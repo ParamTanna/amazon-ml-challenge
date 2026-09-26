@@ -1,0 +1,18 @@
+# --- large data / intermediates (regenerate with the pipeline, see HANDOFF_REPORT.md) ---
+student_resource/dataset/
+work/
+output/
+submissions/
+*.zip
+*.mp4
+*.tsv
+*.parquet
+
+# --- python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- OS ---
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+# Python 3.13 (tested on Windows 11 and Kaggle Linux)
+numpy==2.2.1
+pandas==2.2.3
+pyarrow==23.0.1
+scipy==1.17.1
+scikit-learn==1.8.0
+lightgbm==4.7.0
+RapidFuzz==3.14.6
+Unidecode==1.4.0
+indic_transliteration==2.3.82
+sparse-dot-topn==1.2.0
+psutil
+# neural cross-encoder (run on a GPU; see src/kaggle_ce.py)
+torch==2.14.0
+transformers==5.17.0
